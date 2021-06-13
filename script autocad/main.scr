@@ -1,0 +1,20 @@
+;Sample plot script
+_PLOT
+_Y
+Model HP LaserJet 500 color M551 PCL6
+A4
+Millimeters
+_Landscape
+_No
+Extents
+_Fit
+_Center
+_Y
+acad.ctb
+_Y
+_N
+
+_N
+_Y
+_QUIT
+_Y
