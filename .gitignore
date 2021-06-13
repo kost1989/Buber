@@ -1,0 +1,6 @@
+
+*.exe
+
+buber/bin/Debug/
+
+buber/obj/x86/Debug/
